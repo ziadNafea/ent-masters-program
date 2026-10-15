@@ -1,0 +1,38 @@
+# ENT Masters: Course Landing Page
+
+A responsive landing page for the **1st Advanced Rhinoplasty Course** from the ENT Masters Fellowship Program, including a multi-step course application form.
+
+**Live site:** https://ziadnafea.github.io/ent-masters-program/
+
+## About the project
+
+I started this project in **Figma**, where I designed the layout, visual hierarchy and sections of the page (hero, course format, faculty, who it is for, and the application flow).
+
+I then built the page using **HTML, CSS and JavaScript**, based on my Figma design and my existing knowledge of HTML and CSS, with **AI assistance** to help me turn the design into working code. I used it as a coding assistant while keeping the design decisions and structure my own, and I am continuing to strengthen my front-end fundamentals.
+
+## Built with
+
+- Figma (UI design)
+- HTML, CSS, JavaScript
+- GitHub Pages (hosting)
+- AI-assisted development
+
+## Page sections
+
+- Hero and call to action
+- Course format (two-day program)
+- Faculty
+- Who the course is for
+- What participants will experience
+- Application and verification steps
+- Multi-step application form
+
+## Run locally
+
+1. Clone the repository: `git clone https://github.com/ziadnafea/ent-masters-program.git`
+2. Open `index.html` in your browser.
+
+## Author
+
+**Ziad Nafea**
+[LinkedIn](https://www.linkedin.com/in/ziadnafea/) | [Behance](https://www.behance.net/ziadnafea20)
